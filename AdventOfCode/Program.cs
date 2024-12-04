@@ -1,3 +1,3 @@
 ﻿using AdventOfCode.twentytwentyfour;
 
-day1.Run();
+day4.Run(false);
